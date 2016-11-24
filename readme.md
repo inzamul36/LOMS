@@ -6,6 +6,9 @@ This application is created by MD INZAMUL HAQUE for INFORTECH Solutions. This is
 #### Framework: Laravel 5.3
 #### Language: PHP 5.7
 
+## Demo
+Link: https://www.youtube.com/watch?v=ZCg3JbCvf8Q
+
 ## Install
 - Type this line:
 ```
